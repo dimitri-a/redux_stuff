@@ -92,6 +92,7 @@
     "babel-plugin-transform-es3-property-literals": "^6.5.0",
     "babel-plugin-transform-object-rest-spread": "^6.3.13",
     "babel-register": "^6.3.13",
+    "chai": "^4.0.2",
     "cross-env": "^5.0.1",
     "eslint": "^4.0.0",
     "eslint-config-react-app": "^1.0.4",
